@@ -1,0 +1,14 @@
+{
+  "name": "batch-4-assignment-1-washim-akram",
+  "version": "1.0.0",
+  "description": "Typescript Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wasim Akram",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
